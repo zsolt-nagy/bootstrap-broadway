@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: lightgrey;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: limegreen;
+}
+
+.bg-custom {
+    background-color: black;
+}
+
+.row > div {
+    outline: 1px solid gold;
+}
